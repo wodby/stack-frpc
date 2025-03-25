@@ -1,0 +1,8 @@
+name: frpc
+title: FRPC
+icon: frpc
+services:
+- name: frpc
+  title: FRPC
+  service: frpc
+  required: true
