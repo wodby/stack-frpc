@@ -1,6 +1,7 @@
 name: frpc
 title: FRPC
 icon: frpc
+docs: https://wodby.com/docs/2.0/stacks/catalog/system/
 services:
 - name: frpc
   title: FRPC
